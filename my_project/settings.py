@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['8000-rochilaz123-djangoproje-dqjg5kh514q.ws-eu114.gitpod.io',
                 '8000-rochilaz123-djangoproje-zteub68flfa.ws.codeinstitute-ide.net',
+                'hello-world-2-652bd5f08a8e.herokuapp.com',
                 'herokuapp.com']
 
 
